@@ -10,7 +10,7 @@
     - build-preview(?)
     Shared deps*
 
-# Git
+## Git
  - Provide guide for Reliase branches with tags
  - GitFlow vs GitHub Flow
  - Commit as PR naming guide: conventional commits + jira
